@@ -17,6 +17,10 @@ The aim of this embedded systems project is to turn on the main LED on the board
 
 We have found that the model works with the greatest accuracy when speaking in a Male voice using an American Accent along with a deep tone.
 
+## DIAGRAM
+![image](https://github.com/RishiPradeep/ES-E128-P2/assets/67963002/91ae53b6-b1b6-4fd2-ad9f-4a77de295527)
+
+
 ## COMPONENTS
 
 1. Raspberry PICO H
