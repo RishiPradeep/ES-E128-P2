@@ -1,4 +1,15 @@
 # **SPEECHLESS**
+**TEAM : E-128**
+
+## Team Members:
+
+| Roll Number          | Name                 |
+|----------------------|----------------------|
+| CB.EN.U4CSE21305     | Aman Subash          |
+| CB.EN.U4CSE21313     | Gautham Sreedhar     |
+| CB.EN.U4CSE21342     | Pranav Sreerag       |
+| CB.EN.U4CSE21347     | Rishi Pradeepkumar   |
+
 
 A wake word classifier built using Raspberry Pico H and a ADMP401 Microphone for the Embedded Systems Project.
 
@@ -25,13 +36,3 @@ We have found that the model works with the greatest accuracy when speaking in a
  * Drag and drop the pico_micro_speech_analog.uf2 file from the bin folder into the device.
  * To monitor the output open a terminal in Thonny.
  * Speak into the mic and watch for output.
-
-
-## Team Members:
-
-| Roll Number          | Name                 |
-|----------------------|----------------------|
-| CB.EN.U4CSE21305     | Aman Subash          |
-| CB.EN.U4CSE21313     | Gautham Sreedhar     |
-| CB.EN.U4CSE21342     | Pranav Sreerag       |
-| CB.EN.U4CSE21347     | Rishi Pradeepkumar   |
